@@ -3,7 +3,7 @@ function theBeatlesPlay(musicians, instruments){
   for( i = 0; i < musicians.lenghth; i++){
     results.push(musicians[i] +" plays "+ instruments[i])
   }
-  return 
+  return  results;
 }
 
 function johnLennonFacts(facts){
